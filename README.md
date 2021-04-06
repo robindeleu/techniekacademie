@@ -27,7 +27,7 @@
 
 **
 # Inhoud
-` `**TOC \o "1-3" \h \z \u [**1.	Inleiding	 PAGEREF _Toc68619152 \h 3](#_Toc68619152)**
+[1.	Inleiding	 PAGEREF _Toc68619152 \h 3](#_Toc68619152)
 
 [2.	Materiaal lijst	 PAGEREF _Toc68619153 \h 3](#_Toc68619153)
 
@@ -66,9 +66,7 @@ Voor dit project heb je niet zoveel materiaal of gereedschappen nodig. Dit zijn 
 
 - Micro:bit
 
-` `![Afbeelding met tekst
-
-Automatisch gegenereerde beschrijving](Aspose.Words.076ead80-bea6-44da-9fe8-74cb8ceaf2f5.002.jpeg)
+![](Aspose.Words.076ead80-bea6-44da-9fe8-74cb8ceaf2f5.002.jpeg)
 
 *Figuur  SEQ Figuur \\* ARABIC 1: micro:bit*
 
